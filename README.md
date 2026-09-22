@@ -71,8 +71,7 @@ Even if we use 25-bits number, we can perform the Mandel escape test on mult par
 
 ### FPGA Utilization
 
-This is on a Xilinx XC7A50T. Notice how we use all 10 (100%) DSP48E1 blocks and only 3% BRAM (as HDMI and calculation buffers), while other FPGA resources are mostly free. 
-We also use almost all external SRAM for the framebuffer (960x544 = 522240 bytes out of 524288).
+This is on a Xilinx XC7A50T. Notice how we use all 120 (100%) DSP48E1 blocks and only 33% BRAM, while other FPGA resources are mostly free. 
 
 ![screenshots](media/mandelbrUlt-50T_summary.png)
 
