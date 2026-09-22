@@ -93,6 +93,11 @@ I was too lazy to prepare a new good 4096-color palette. Next version ! :)
 Sure. Change it here: [palette_yuv_256.hex](sources/src/palette_yuv_256.hex)
 
 
+### I have a Commodore 77, can I use the C64 Ultimate build ?
+
+No. The Commodore 77 has a bigger FPGA and needs a different build.  
+Read [here](sources/README.md) how to build for the 100T FPGA and enjoy twice the performance of the 50T.  
+
 
 # LICENSE
 
