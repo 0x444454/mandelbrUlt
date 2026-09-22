@@ -29,10 +29,9 @@ Keep Joystick button pressed for these actions:
 - Fire + Right: Decrese iterations.
 - Fire (and nothing else) pressed for 2 seconds: Cycle palette.
 
-
-Power **LED**:
-- Red = Calculating
-- Green = Idle
+Motherboard **LED**:
+- Lit = Calculating
+- Off = Idle
 
 ![screenshots](media/screenshot.jpg)
 
