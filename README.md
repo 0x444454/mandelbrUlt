@@ -79,9 +79,15 @@ We also use almost all external SRAM for the framebuffer (960x544 = 522240 bytes
 
 # PROBLEMS / FAQ
 
+### Why no HDMI output ?
+
+I am still trying to understand how to configure the HDMI encoder.
+
+
 ### Why only 256 colors, even if 4096 iters are supported ?
 
 I was too lazy to prepare a new good 4096-color palette. Next version ! :)  
+
 
 ### Can I customize the palette ?
 
