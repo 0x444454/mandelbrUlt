@@ -15,7 +15,7 @@ Features:
 - Composite or S-Video cable. NOTE: HDMI output is not yet supported.
 - A monitor/TV compatible with PAL.
 - A way to load and run the FPGA core (see this project: https://github.com/0x444454/look_ma_no_vic).
-- Joystick in port 1.
+- Joystick in port 2.
 
 # CONTROLS
 
