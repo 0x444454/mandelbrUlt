@@ -19,7 +19,7 @@ Features:
 
 # CONTROLS
 
-Use joystick in port 2:
+Use **joystick in port 2**:
 - Up, Down, Left, Right: Move around in complex plane.  
 
 Keep Joystick button pressed for these actions:
