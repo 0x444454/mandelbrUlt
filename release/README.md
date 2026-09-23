@@ -6,7 +6,7 @@
 
 NOTE: This bitstream is **only** for the **C64 Ultimate** with 50T (XC7A50T) FPGA board.  
 
-If you have a **Commodore 77** with 100T FPGA board (XC7A50T), build from sources.  
+If you have a **Commodore 77** with 100T FPGA board (XC7A50T), build from [sources](sources/README.md).  
 
 
 # HOW TO RUN
