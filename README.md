@@ -7,7 +7,7 @@ Features:
 - 20 asynchronous parallel Mandelbrot cores running at 100 MHz reaching 2.0 GigaIters/s.
 - Brute force calculation (all pixels are always recalculated).
 
-![screenshots](media/mandelbrUlt-demo.jpg)
+![screenshots](media/mandelbrUlt-demo-small.jpg)
 
 # REQUIREMENTS
 
