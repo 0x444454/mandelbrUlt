@@ -9,7 +9,10 @@
 Open the ```mandelbrUlt.xpr``` project file.
 
 NOTE: By default, the project is configured for the __Commodore 64 Ultimate__ with 50T FPGA board.  
+
 If instead you have a __Commodore 77__ with 100T FPGA board, change the FPGA type to XC7A100T and set ```MANDEL_CORES = 40``` in the [top.v](src/top.v) file to reach 4 GigaIters/s on the 100T.  
+
+You should be able to port this to other Artix-7 based platforms.  
 
 ## Build
 In the "Flow Navigator": "Program and Device" -> "Generate Bitstream".
