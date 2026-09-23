@@ -5,7 +5,7 @@ Features:
 - S-Video output: PAL 352x256 @ 50Hz, 256 colors.
 - Interactive controls via joystick (port 2).
 - 20 asynchronous parallel Mandelbrot cores running at 100 MHz reaching 2.0 GigaIters/s.
-- Up to 4096 iters per pixel.
+- Up to 4095 iters per pixel.
 - Brute force calculation (all pixels are always recalculated).
 
 ![screenshots](media/mandelbrUlt-demo-small.jpg)
