@@ -104,7 +104,7 @@ Read [here](sources/README.md) how to build for the 100T FPGA and enjoy twice th
 Check these other projects:
 
 - **Digilent Basys3**: https://github.com/0x444454/mandel_basys3
-- **Digilent CmodA7**: https://github.com/0x444454/mandel_CmodA7/blob/main/sources/src/top.sv
+- **Digilent CmodA7**: https://github.com/0x444454/mandel_CmodA7/
 - **C64 Classic** (software only): https://github.com/0x444454/mandelbr8
 
 
