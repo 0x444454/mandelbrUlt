@@ -2,8 +2,12 @@
 
 - **mandelbrUlt.bit** : Bitstream for Commodore 64 Ultimate.
 
-NOTE: This bitstream is for the C64 Ultimate with 50T (XC7A50T) FPGA board.  
-If you have a Commodore 77 with 100T FPGA board, build from sources.
+## COMPATIBILITY
+
+NOTE: This bitstream is **only** for the **C64 Ultimate** with 50T (XC7A50T) FPGA board.  
+
+If you have a **Commodore 77** with 100T FPGA board (XC7A50T), build from sources.  
+
 
 # HOW TO RUN
 
@@ -17,6 +21,7 @@ Select the path of the bitstream file.
 Click the "Program" button on the UI.  
 
 NOTE: If "Program Device" is not active, check that your debug interface USB drivers have been correctly installed.  
+
 
 # LICENSE
 
