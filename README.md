@@ -98,6 +98,15 @@ Sure. Change it here: [palette_yuv_256.hex](sources/src/palette_yuv_256.hex)
 No. The Commodore 77 has a bigger FPGA and needs a different build.  
 Read [here](sources/README.md) how to build for the 100T FPGA and enjoy twice the performance of the 50T.  
 
+### What about other devices ?
+
+Check these other projects:
+
+- **Digilent Basys3**: https://github.com/0x444454/mandel_basys3
+- **Digilent CmodA7**: https://github.com/0x444454/mandel_CmodA7/blob/main/sources/src/top.sv
+- **C64 Classic** (software only): https://github.com/0x444454/mandelbr8
+
+
 
 # LICENSE
 
