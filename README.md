@@ -1,5 +1,5 @@
 # mandelbrUlt
-## A fast (2.0 GigaIters/s) interactive Mandelbrot generator for the Commodore 64 Ultimate
+## A fast (2 GigaIters/s) interactive Mandelbrot generator for the Commodore 64 Ultimate
 
 Features:
 - S-Video output: PAL 352x256 @ 50Hz, 256 colors.
